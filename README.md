@@ -28,8 +28,8 @@ BGP summary (Default):
 ________________________________________________________________________
 | Neighbor IP     | Status      | Uptime                        | PfxRcd |
 | _______________ | ___________ | _____________________________ | ______ |
-| 10.14.48.4      | Established | 0 days 8 hours 16 minutes     | 2142   |
-| 10.14.48.5      | Established | 0 days 2 hours 18 minutes     | 2138   |
+| 10.11.184.1     | Established | 0 days 8 hours 16 minutes     | 2142   |
+| 10.11.184.2     | Established | 0 days 2 hours 18 minutes     | 2138   |
 |________________________________________________________________________|
 [syu@testhost ~]$
 ```

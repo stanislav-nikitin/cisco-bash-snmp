@@ -3,7 +3,8 @@
 
 #The script is based on idia of script "bash-for-snmp" by @nxfxn (https://github.com/nxfxn/bash-for-snmp)
 
-Usage: 
+Usage:
+```
 [syu@testhost ~]$  sh ip-int-brief 10.13.184.122
 Interface table:
 ____________________________________________________________________________________________________________
@@ -31,3 +32,4 @@ ________________________________________________________________________
 | 10.14.48.5      | Established | 0 days 2 hours 18 minutes     | 2138   |
 |________________________________________________________________________|
 [syu@testhost ~]$
+```

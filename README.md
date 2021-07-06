@@ -1,7 +1,7 @@
 # cisco-bash-snmp
  Bash script that shows outputs, which similar with commands "show ip int brief" and "show ip bgp sum", by using SNMP
 
-#The script is based on idia of script "bash-for-snmp" by @nxfxn (https://github.com/nxfxn/bash-for-snmp)
+#The script is based on idea of script "bash-for-snmp" by @nxfxn (https://github.com/nxfxn/bash-for-snmp)
 
 Usage:
 ```
